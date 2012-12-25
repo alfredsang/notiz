@@ -1,2 +1,0 @@
-FAYE_TOKEN = "2m74WBxytHa5SxjeHHts54sF49r2cUWKxw8zqBMn8XJTT5F5ydegz5yzwsjjfLewB7cr"
-
