@@ -2,7 +2,7 @@ defaults: &defaults
   app_name: "Notiz"
   meta_keywords: ''
   meta_description: ''
-  foot_html: "&copy; 2002."
+  foot_html: "&copy; 2012."
   domain: "[YOUR PRODUCTION DOMAIN]"
   host: '[YOUR PRODUCTION DOMAIN]'
   full_host: 'http://[YOUR PRODUCTION DOMAIN]'
