@@ -18,5 +18,7 @@ pickle-email-*.html
 /config/application.rb
 /config/application.yml
 /config/initializers/faye_token.rb
+/config/environments/development.rb
+/config/environments/production.rb
 /config/initializers/exception_notifier.rb
 *.*~
