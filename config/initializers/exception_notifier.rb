@@ -1,6 +1,0 @@
-if !Rails.env.development?
-  Notiz::Application.config.middleware.use ExceptionNotifier,
-  :email_prefix => "[exception_notification] ",
-  :sender_address => %{"[#{Rails.env[0, 4]}] Notiz Exception" <notiz@#{Settings.host}>},
-  :exception_recipients => %w{chitsung.lin@gmail.com}
-end
